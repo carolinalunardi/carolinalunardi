@@ -1,18 +1,11 @@
 ### Hi there 👋 Welcome to my Profile!
 
-### My GitHub Stats
 <div>
   <a href="https://github.com/carolinalunardi">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolinalunardi&show_icons=true&theme=dracula" alt="github stats" width="45%" align="right"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinalunardi&theme=dracula" width="48%" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinalunardi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinalunardi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
-### Top Languages
-<div> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinalunardi&layout=compact&theme=dracula">
-</div>
-
-### Tech Stack
+  <br />
 <div style="display: inline_block">
   <img alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
